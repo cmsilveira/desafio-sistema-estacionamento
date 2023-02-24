@@ -1,0 +1,15 @@
+/home/matheus/Projetos/desafio-sistema-estacionamento/bin/Debug/net6.0/desafio-sistema-estacionamento
+/home/matheus/Projetos/desafio-sistema-estacionamento/bin/Debug/net6.0/desafio-sistema-estacionamento.deps.json
+/home/matheus/Projetos/desafio-sistema-estacionamento/bin/Debug/net6.0/desafio-sistema-estacionamento.runtimeconfig.json
+/home/matheus/Projetos/desafio-sistema-estacionamento/bin/Debug/net6.0/desafio-sistema-estacionamento.dll
+/home/matheus/Projetos/desafio-sistema-estacionamento/bin/Debug/net6.0/ref/desafio-sistema-estacionamento.dll
+/home/matheus/Projetos/desafio-sistema-estacionamento/bin/Debug/net6.0/desafio-sistema-estacionamento.pdb
+/home/matheus/Projetos/desafio-sistema-estacionamento/obj/Debug/net6.0/desafio-sistema-estacionamento.csproj.AssemblyReference.cache
+/home/matheus/Projetos/desafio-sistema-estacionamento/obj/Debug/net6.0/desafio-sistema-estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Projetos/desafio-sistema-estacionamento/obj/Debug/net6.0/desafio-sistema-estacionamento.AssemblyInfoInputs.cache
+/home/matheus/Projetos/desafio-sistema-estacionamento/obj/Debug/net6.0/desafio-sistema-estacionamento.AssemblyInfo.cs
+/home/matheus/Projetos/desafio-sistema-estacionamento/obj/Debug/net6.0/desafio-sistema-estacionamento.csproj.CoreCompileInputs.cache
+/home/matheus/Projetos/desafio-sistema-estacionamento/obj/Debug/net6.0/desafio-sistema-estacionamento.dll
+/home/matheus/Projetos/desafio-sistema-estacionamento/obj/Debug/net6.0/ref/desafio-sistema-estacionamento.dll
+/home/matheus/Projetos/desafio-sistema-estacionamento/obj/Debug/net6.0/desafio-sistema-estacionamento.pdb
+/home/matheus/Projetos/desafio-sistema-estacionamento/obj/Debug/net6.0/desafio-sistema-estacionamento.genruntimeconfig.cache
