@@ -1,13 +1,20 @@
-﻿public class Program
+﻿using ParkingSystem.Models;
+public class Program
 {
     static void Main()
     {
+        // variables
         bool endApp = false;
+        string ownerName = string.Empty;
+        string licencePlate = string.Empty;
 
-        Console.WriteLine( "Console Mode Parking System\r" );
-        Console.WriteLine( "---------------------------\n" );
+        Parking parking = new Parking(ownerName, licencePlate);
 
-        while( !endApp )
+        // starts here
+        Console.WriteLine("Console Mode Parking System\r");
+        Console.WriteLine("---------------------------\n");
+
+        while (!endApp)
         {
             Console.WriteLine("Choose an operator from the following list:");
             Console.WriteLine("\t[1] - Check in vehicle");
@@ -18,13 +25,22 @@
 
             string option = Console.ReadLine();
 
-            switch( option )
+            switch (option)
             {
                 case "1":
+                    Console.WriteLine("CKECK-IN");
+                    Console.WriteLine("--------\n");
+
+                    Console.Write("Enter the licence plate: ");
+                    licencePlate = Console.ReadLine();
+                    Console.Write("Enter the name of the vehicle owner: ");
+                    ownerName = Console.ReadLine();
+                    parking.ChekinVehicle(ownerName, licencePlate);
                     break;
                 case "2":
                     break;
                 case "3":
+                    parking.VehicleList();
                     break;
                 case "4":
                     // Wait for the user to respond before closing

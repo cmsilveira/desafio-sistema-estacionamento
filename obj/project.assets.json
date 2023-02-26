@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/matheus/.nuget/packages/": {}
+    "C:\\Users\\carlo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/matheus/Projetos/desafio-sistema-estacionamento/desafio-sistema-estacionamento.csproj",
+      "projectUniqueName": "D:\\Projetos\\desafio-sistema-estacionamento\\desafio-sistema-estacionamento.csproj",
       "projectName": "desafio-sistema-estacionamento",
-      "projectPath": "/home/matheus/Projetos/desafio-sistema-estacionamento/desafio-sistema-estacionamento.csproj",
-      "packagesPath": "/home/matheus/.nuget/packages/",
-      "outputPath": "/home/matheus/Projetos/desafio-sistema-estacionamento/obj/",
+      "projectPath": "D:\\Projetos\\desafio-sistema-estacionamento\\desafio-sistema-estacionamento.csproj",
+      "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+      "outputPath": "D:\\Projetos\\desafio-sistema-estacionamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/matheus/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -49,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
